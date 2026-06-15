@@ -102,13 +102,6 @@ Stable Diffusion DreamShaper-8 generates scene-specific illustrations from struc
 Generated visuals are assembled into a video sequence with motion effects. Narration is generated using gTTS and synchronized with scene timing to create an immersive storytelling experience.
 
 ---
-## Demo Video
-
-Watch the project demonstration here:
-
-
-
----
 
 ## Project Structure
 
@@ -153,12 +146,4 @@ Narrative-Nexus/
 * Interactive storytelling experiences
 * AR/VR integration
 
----
 
-## Author
-
-**Sumaiyya Fatima**
-
-Bachelor's Major Project
-
-AI-Powered Multimedia Storytelling System
