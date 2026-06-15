@@ -102,32 +102,11 @@ Stable Diffusion DreamShaper-8 generates scene-specific illustrations from struc
 Generated visuals are assembled into a video sequence with motion effects. Narration is generated using gTTS and synchronized with scene timing to create an immersive storytelling experience.
 
 ---
-
-## Screenshots
-
-### Home Page
-
-![Home Page](assets/screenshots/home-page.png)
-
-### Story Generation
-
-![Story Generation](assets/screenshots/story-generation.png)
-
-### Generated Scenes
-
-![Generated Scenes](assets/screenshots/generated-scenes.png)
-
-### Final Video Output
-
-![Final Video](assets/screenshots/final-video.png)
-
----
-
 ## Demo Video
 
 Watch the project demonstration here:
 
-[Demo Video](PASTE_YOUR_YOUTUBE_OR_DRIVE_LINK_HERE)
+
 
 ---
 
